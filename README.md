@@ -1,4 +1,4 @@
-
+An Email Detection System that uses machine learning and natural language processing (NLP) techniques to analyze and classify emails. The system helps identify whether an email is legitimate or potentially spam based on the content and characteristics of the message. This project demonstrates the practical application of machine learning for automated email classification and spam detection.
 
 # Email Spam Detection using Machine Learning
 
